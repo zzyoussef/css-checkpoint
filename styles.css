@@ -1,0 +1,46 @@
+body {
+    background-image: url("C:/Users/ACER/Documents/gomycode/gomycode/web/html code/checkpoint/5651989.webp");
+}
+nav li{
+    display: inline-block;
+    background: rgb(255, 0, 0);
+    margin-left: 50px;
+    padding-left: 5px;
+    border: 5px inset rgb(113, 209, 40);
+    
+}
+header{
+    border: double aquamarine;
+    background: black;
+    padding: 5px;
+    text-align:right;
+}
+h1{
+    color: darkseagreen;
+}
+p{
+    color: aqua;
+    font-family: roboto;
+}
+label{
+    color: aqua;
+    font-family: roboto;
+}
+img{
+    display:inline-block;
+    margin: 50px;
+    border:3px dashed red ;
+}
+.ss{
+    padding-left: 250px;
+    display: inline-block;
+}
+form{
+    border: 5px groove grey;
+    background-image: url("images.jpg");
+}
+section{
+    border: solid cornflowerblue;
+    margin: 10px;
+    padding: 10px;
+}
